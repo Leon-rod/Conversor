@@ -5,5 +5,5 @@
  * @author nelso
  *
  */
-module Conversor {
+module ConversorExample {
 }

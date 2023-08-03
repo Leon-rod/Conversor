@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="primerasPruebas.main"/>
+    <fullyQualifiedTypeName name="primerasPruebas.WindowFrame"/>
+    <fullyQualifiedTypeName name="java.awt.event.ItemListener"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame.AccessibleJFrame"/>
+    <fullyQualifiedTypeName name="java.awt.event.WindowStateListener"/>
+    <fullyQualifiedTypeName name="java.awt.event.WindowAdapter"/>
+    <fullyQualifiedTypeName name="java.awt.event.WindowListener"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.accessibility.Accessible"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar"/>
+    <fullyQualifiedTypeName name="primerasPruebas.MenuConversion"/>
+    <fullyQualifiedTypeName name="java.awt.Menu"/>
+    <fullyQualifiedTypeName name="primerasPruebas.Mensaje"/>
+    <fullyQualifiedTypeName name="primerasPruebas.MenuPrincipal"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthInternalFrameUI"/>
+    <fullyQualifiedTypeName name="primerasPruebas.ConversionTemperatura"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+</qualifiedTypeNameHistroy>

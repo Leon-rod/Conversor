@@ -1,4 +1,6 @@
 INDEX VERSION 1.132+C:\Users\nelso\Desktop\Mistyc_codes\Oracle\Challenges\Conversor - C2\.metadata\.plugins\org.eclipse.jdt.core
 1014220667.index
+3225444235.index
 1865797976.index
+1972713978.index
 851016538.index
